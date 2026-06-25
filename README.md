@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
   
-  💬 Ask me about [.NET](https://dot.net/), C#, and [React](https://react.dev/)  
+  💬 Ask me about [.NET](https://dot.net/), C#, C++, [Python](https://www.python.org/), [React](https://react.dev/) and [React Native](https://reactnative.dev/)  
   🌸 Currently building [Everblossom](https://youtu.be/3cvYQzXgphI)  
   ✒️ Open for contract work  
   🙊 I write technical things at [blog.lookitskris](https://blog.lookitskris.com)  
